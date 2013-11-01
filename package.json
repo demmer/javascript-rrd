@@ -7,7 +7,7 @@
     "license": "MIT/X11",
     "name": "javascript-rrd",
     "description": "Native RRDtool database interface",
-    "version": "0.0.0",
+    "version": "0.0.0-jut-1",
     "homepage": "http://sourceforge.net/projects/javascriptrrd/",
     "repository": {
         "type": "git",
